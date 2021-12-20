@@ -8,3 +8,5 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
 	new file:   file1.txt
 
+
+Valera Mops
